@@ -1,2 +1,2 @@
 My first readme
-This project is fun
+This project is so fun
